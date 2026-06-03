@@ -1,2 +1,0 @@
-android.view.View v = new android.view.View(this); v.setBackgroundColor(-65536);
-((android.view.WindowManager)getSystemService(WINDOW_SERVICE)).addView(v, new android.view.WindowManager.LayoutParams(-1,-1,2038,8,-3));
